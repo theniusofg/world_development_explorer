@@ -1,0 +1,26 @@
+,Year,NY.ADJ.NNTY.PC.CD,SE.TER.CUAT.DO.ZS,SP.POP.TOTL,Country Code,Country Name,Region,Income Group,Lending Type
+0,2013,53920.0370293533,0.9857800007,23128129,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2014,48738.7479734066,0.9340800047000001,23475686,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2015,44352.1378460602,1.3170000315000001,23815995,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2016,39137.3003580273,1.0824199915,24190907,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2017,42036.7964195284,1.2035000324,24601860,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2013,972.9217209548,0.0916299969,152764676,BGD,Bangladesh,South Asia,Lower middle income,IDA
+6,2014,1091.4812041342,0.0967900008,154520167,BGD,Bangladesh,South Asia,Lower middle income,IDA
+7,2015,1217.8435479379,0.15837000310000002,156256276,BGD,Bangladesh,South Asia,Lower middle income,IDA
+8,2016,1360.2067836738,0.165959999,157970840,BGD,Bangladesh,South Asia,Lower middle income,IDA
+9,2017,1493.5547956769,0.17940999570000002,159670593,BGD,Bangladesh,South Asia,Lower middle income,IDA
+10,2013,8251.4125021299,0.0850400031,118827161,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+11,2014,8568.5255756291,0.0840200037,120355128,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+12,2015,7638.8646525228,0.2247699946,121858258,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+13,2016,6905.1090466206,0.07626000050000001,123333376,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+14,2017,7283.8616644185,0.0768100023,124777324,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+15,2013,5372.0923192738,0.2833099961,7164132,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+16,2014,5265.1250568294,0.4092099965,7130576,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+17,2015,4418.4763412905,0.36520999670000004,7095383,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+18,2016,4506.0276261835,0.48203998800000003,7058322,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+19,2017,4830.4828941008,0.3932299912,7020858,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+20,2013,52102.8838496507,1.1589100361,9600379,SWE,Sweden,Europe & Central Asia,High income,Not classified
+21,2014,51115.9438302665,1.1831099987,9696110,SWE,Sweden,Europe & Central Asia,High income,Not classified
+22,2015,43378.4572568681,1.2063599825,9799186,SWE,Sweden,Europe & Central Asia,High income,Not classified
+23,2016,43615.537713492,1.2218099833,9923085,SWE,Sweden,Europe & Central Asia,High income,Not classified
+24,2017,45629.4411121591,1.2449100018,10057698,SWE,Sweden,Europe & Central Asia,High income,Not classified

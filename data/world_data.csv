@@ -1,0 +1,96 @@
+,Year,SP.POP.TOTL,NY.GDP.PCAP.CD,SE.SEC.CUAT.PO.ZS,Country Code,Country Name,Region,Income Group,Lending Type
+0,2012,22733465,68012.1479005934,46.461971283,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2013,23128129,68150.1070413215,41.6409111023,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2014,23475686,62510.7911705641,39.0349807739,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2015,23815995,56755.7217124249,45.3450698853,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2016,24190907,49971.131456129,46.4734306335,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2012,9295784,7496.2946476826,30.0363502502,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+6,2013,9416801,7875.7569525429,30.0331306458,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+7,2014,9535079,7891.3131474999,30.0571193695,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+8,2015,9649341,5500.3103824441,30.0416603088,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+9,2016,9757812,3880.7387308956,30.091709137,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+10,2012,151007807,883.1050005413,10.5072097778,BGD,Bangladesh,South Asia,Lower middle income,IDA
+11,2013,152764676,981.8398791504,9.4185600281,BGD,Bangladesh,South Asia,Lower middle income,IDA
+12,2014,154520167,1118.8536634927,10.2895097733,BGD,Bangladesh,South Asia,Lower middle income,IDA
+13,2015,156256276,1248.4533977837,13.9909801483,BGD,Bangladesh,South Asia,Lower middle income,IDA
+14,2016,157970840,1401.6206282151,14.347319603,BGD,Bangladesh,South Asia,Lower middle income,IDA
+15,2012,11106932,44673.1158755901,32.7122497559,BEL,Belgium,Europe & Central Asia,High income,Not classified
+16,2013,11159407,46744.6625441516,32.9851417542,BEL,Belgium,Europe & Central Asia,High income,Not classified
+17,2014,11209057,47700.5403601178,32.8033905029,BEL,Belgium,Europe & Central Asia,High income,Not classified
+18,2015,11274196,40991.8081381432,33.2611503601,BEL,Belgium,Europe & Central Asia,High income,Not classified
+19,2016,11331422,41984.1030335609,33.7627182007,BEL,Belgium,Europe & Central Asia,High income,Not classified
+20,2012,199287296,12370.0242007149,11.9615001678,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+21,2013,201035903,12300.3248822758,12.6315698624,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+22,2014,202763735,12112.5882059697,13.1573696136,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+23,2015,204471769,8814.0009868126,13.5562496185,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+24,2016,206163058,8710.0966895412,15.3451795578,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+25,2012,46075721,8050.2553716705,17.0799694061,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+26,2013,46495492,8218.3478443148,18.5945796967,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+27,2014,46967706,8114.3439208516,19.7050495148,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+28,2015,47520667,6175.8760297026,19.5199699402,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+29,2016,48175048,5870.7779572416,20.1363105774,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+30,2012,10510785,19870.8012123403,19.0093002319,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+31,2013,10514272,20133.1691431353,19.9570407867,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+32,2014,10525347,19890.9199056648,18.967250824,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+33,2015,10546059,17829.6983223668,19.5305309296,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+34,2016,10566332,18575.2320271915,20.2412490845,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+35,2012,9930911,6110.369652362,10.7886600494,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+36,2013,10048224,6238.1336082528,10.858590126,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+37,2014,10165178,6608.8281018077,11.7863502502,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+38,2015,10281680,6921.5172284818,12.3803501129,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+39,2016,10397743,7280.8801092334,22.5186195374,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+40,2012,15474102,5682.0450065535,12.0028495789,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+41,2013,15707474,6056.3308269681,12.7312202454,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+42,2014,15951838,6377.0915301422,11.7284297943,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+43,2015,16212020,6124.4916426207,13.6028995514,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+44,2016,16491115,6060.0933290442,13.4826698303,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+45,2012,65659809,40874.7035053457,26.0628604889,FRA,France,Europe & Central Asia,High income,Not classified
+46,2013,65998687,42592.9340943342,27.370470047,FRA,France,Europe & Central Asia,High income,Not classified
+47,2014,66312067,43011.2631028417,28.662979126,FRA,France,Europe & Central Asia,High income,Not classified
+48,2015,66548272,36638.184929157,30.4950809479,FRA,France,Europe & Central Asia,High income,Not classified
+49,2016,66724104,37037.3741861219,29.6249599457,FRA,France,Europe & Central Asia,High income,Not classified
+50,2012,80425823,43858.3630551076,31.7936401367,DEU,Germany,Europe & Central Asia,High income,Not classified
+51,2013,80645605,46285.7640688407,32.3349189758,DEU,Germany,Europe & Central Asia,High income,Not classified
+52,2014,80982500,47959.9932737599,33.4242095947,DEU,Germany,Europe & Central Asia,High income,Not classified
+53,2015,81686611,41086.7296737253,34.4100914001,DEU,Germany,Europe & Central Asia,High income,Not classified
+54,2016,82348669,42107.5172703074,35.652721405,DEU,Germany,Europe & Central Asia,High income,Not classified
+55,2012,9920362,12950.6865153085,22.8525390625,HUN,Hungary,Europe & Central Asia,High income,Not classified
+56,2013,9893082,13687.5140593304,29.0240802765,HUN,Hungary,Europe & Central Asia,High income,Not classified
+57,2014,9866468,14267.0121547683,28.2089099884,HUN,Hungary,Europe & Central Asia,High income,Not classified
+58,2015,9843028,12706.8912148924,28.7417697906,HUN,Hungary,Europe & Central Asia,High income,Not classified
+59,2016,9814023,13090.5067287853,28.5094604492,HUN,Hungary,Europe & Central Asia,High income,Not classified
+60,2012,117274155,10241.7279153745,16.3126907349,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+61,2013,118827161,10725.1833166036,14.7768001556,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+62,2014,120355128,10928.9168262489,14.4319295883,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+63,2015,121858258,9616.6450056895,16.2725505829,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+64,2016,123333376,8744.5157718322,15.1532297134,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+65,2012,16754962,50073.0056559308,32.0577507019,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+66,2013,16804432,52184.0618504931,30.2877502441,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+67,2014,16865008,52830.1742328055,30.5605792999,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+68,2015,16939923,45175.2318933798,31.209810257,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+69,2016,17030314,46007.8529206547,31.7883090973,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+70,2012,10514844,20564.8898617969,15.5597200394,PRT,Portugal,Europe & Central Asia,High income,Not classified
+71,2013,10457295,21647.0418118869,16.3137702942,PRT,Portugal,Europe & Central Asia,High income,Not classified
+72,2014,10401062,22074.3007634216,17.9767093658,PRT,Portugal,Europe & Central Asia,High income,Not classified
+73,2015,10358076,19242.3664710981,18.7413902283,PRT,Portugal,Europe & Central Asia,High income,Not classified
+74,2016,10325452,19978.401214968,19.5643501282,PRT,Portugal,Europe & Central Asia,High income,Not classified
+75,2012,20058035,8507.1047745644,17.0980491638,ROU,Romania,Europe & Central Asia,High income,IBRD
+76,2013,19983693,9547.8521509661,17.3730602264,ROU,Romania,Europe & Central Asia,High income,IBRD
+77,2014,19908979,10043.6774497614,17.2269802094,ROU,Romania,Europe & Central Asia,High income,IBRD
+78,2015,19815616,8969.1489214619,17.7632293701,ROU,Romania,Europe & Central Asia,High income,IBRD
+79,2016,19702267,9548.5874029827,17.7419300079,ROU,Romania,Europe & Central Asia,High income,IBRD
+80,2012,5407579,17481.8954435252,17.1679096222,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+81,2013,5413393,18260.0157710019,17.8810997009,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+82,2014,5418649,18674.3440568625,19.4953899384,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+83,2015,5423801,16310.9884090005,20.626159668,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+84,2016,5430798,16508.6703604932,21.5165290833,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+85,2012,74653016,11795.316711752,13.3758897781,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+86,2013,75928564,12614.4802575975,14.8832502365,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+87,2014,77231907,12157.3379609015,15.8283195496,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+88,2015,78529409,11006.2497363978,17.393579483,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+89,2016,79821724,10895.3186924719,18.1570796967,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+90,2012,313830990,51610.6052783379,40.663230896,USA,United States,North America,High income,Not classified
+91,2013,315993715,53117.6678498178,41.5046691895,USA,United States,North America,High income,Not classified
+92,2014,318301008,55064.7445483427,41.8897018433,USA,United States,North America,High income,Not classified
+93,2015,320635163,56839.3817742317,42.3375091553,USA,United States,North America,High income,Not classified
+94,2016,322941311,57951.5840820997,43.5118789673,USA,United States,North America,High income,Not classified
